@@ -42,6 +42,11 @@
   + [海阔视界常见问题系列（一）](https://mp.weixin.qq.com/s/ukMZ4D6eRm-OCAR1G8PaoQ)
   + [海阔视界常见问题（二）](https://mp.weixin.qq.com/s/Jp3Xn8IqapQhEJIz5DCY8A)
 
+## 2. TV'Box
+* TV'Box｜APP
+  + [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
+
+![TV'Box](https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/pic/20220623.png "TV'Box")
 
 ## ~~2. 猫影视TV~~
 [20220621 官方TG已公告，停止使用，停止维护]
