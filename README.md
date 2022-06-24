@@ -42,7 +42,7 @@
   + [海阔视界常见问题系列（一）](https://mp.weixin.qq.com/s/ukMZ4D6eRm-OCAR1G8PaoQ)
   + [海阔视界常见问题（二）](https://mp.weixin.qq.com/s/Jp3Xn8IqapQhEJIz5DCY8A)
 
-## 2. TV'Box
+## 2. [TV'Box](https://github.com/YuanHsing/freed/tree/master/TVBox)
 * TV'Box｜APP
   + [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
 
