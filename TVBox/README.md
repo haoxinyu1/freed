@@ -1,5 +1,5 @@
 # TV'Box
-* [CatVodTVOSC](https://github.com/CatVodTVOfficial/CatVodTVOSC)
+* [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
 * ![TV'Box](https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/pic/20220623.png "TV'Box")
 
 
