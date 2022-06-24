@@ -3,7 +3,7 @@
 
 ---
 ## 本地接口clan://协议 简易设定流程：
-* 下载3in1懒人包：[TVBox.zip](clan://TVBox/本地协议clan懒人包/TVBox.zip) 至 根目录(/storage/emulated/0/)
+* 下载3in1懒人包：[TVBox.zip](https://github.com/YuanHsing/freed/raw/master/TVBox/%E6%9C%AC%E5%9C%B0%E5%8D%8F%E8%AE%AEclan%E6%87%92%E4%BA%BA%E5%8C%85/TVBox.zip) 至 根目录(/storage/emulated/0/)
 * 手动解压缩至 根目录(/storage/emulated/0/)
 * 确认 根目录(/storage/emulated/0/)下 是否有多了 TVBox目录(/storage/emulated/0/TVBox/)
 * 升级TV'Box至最新版 --> 开启 TV'Box
