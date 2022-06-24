@@ -1,7 +1,6 @@
-# TV'Box
-* [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
-* ![TV'Box](https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/pic/20220623.png "TV'Box")
-
+# 2. TV'Box
+* TV'Box｜APP
+  + [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
 
 ## 配置地址 简易设定流程：
 * 设置 --> 设置其他  --> 配置地址 (底下二选一)
@@ -13,3 +12,7 @@
 
 ## 失效数据源
 * 设置 --> 站点数据源 --> 右侧页面选取失效的数据源 --> 禁用
+
+## 其它：
+* ![TV'Box](https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/pic/20220623.png "TV'Box")
+* ![TV'Box](https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/pic/20220624.png "TV'Box")
