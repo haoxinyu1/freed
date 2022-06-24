@@ -11,9 +11,12 @@
 * 设置 --> 设置其他  --> 配置地址 --> 直接黏贴底下的 配置地址 设定 --> 确定
 
 ## 本地配置地址 (三选一 \ 切换着看)
-* 本地配置地址1：clan://localhost/TVBox/ts.json
-* 本地配置地址2：clan://localhost/TVBox/bc.json
-* 本地配置地址3：clan://localhost/TVBox/xm.json
+* 本地配置地址1：
+  * clan://localhost/TVBox/ts.json
+* 本地配置地址2：
+  * clan://localhost/TVBox/bc.json
+* 本地配置地址3：
+  * clan://localhost/TVBox/xm.json
 
 ---
 
